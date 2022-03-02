@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -l -a [[:digit:]]*
+0;10;1c0;10;1c#!/bin/bash
+ls -l -a *
