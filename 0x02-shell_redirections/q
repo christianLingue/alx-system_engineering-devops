@@ -1,0 +1,10 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+(New file)
+funcall-interactively: End of buffer
+Quit [2 times]
+Save file /root/alx-system_engineering-devops/0x02-shell_redirections/3-twofiles? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x02-shell_redirections/3-twofiles? (y, n, !, ., q, C-r, d or C-h) C-h
+Save file /root/alx-system_engineering-devops/0x02-shell_redirections/3-twofiles? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x02-shell_redirections/3-twofiles? (y, n, !, ., q, C-r, d or C-h) q
+save-buffers-kill-emacs: Command attempted to use minibuffer while in minibuffer
